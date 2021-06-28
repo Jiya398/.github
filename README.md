@@ -1,5 +1,6 @@
 ### Hi there  👋
-
+I'm Julieta Sayco and currrently passionate studying about Web Development.
+I'm also interested to collaborate with other projects and have a connections.
 You can reach me Julietaa.b.sayco@gmail.com
 <!--
 **Julieta398/Julieta398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
