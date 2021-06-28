@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there  👋
 
+You can reach me Julietaa.b.sayco@gmail.com
 <!--
 **Julieta398/Julieta398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
