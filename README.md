@@ -2,7 +2,7 @@
 I'm Julieta Sayco, 2nd year college and currently studying Bahelor of Science in Information Technology
 Currrently passionate studying in the Technology field.
 I'm also interested to collaborate with other projects and have a connections.
-You can reach me at Julietaa.b.sayco@gmail.com
+You can reach me at Julietaa.b.sayco@gmail.com.
 <!--
 **Julieta398/Julieta398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
