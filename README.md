@@ -1,7 +1,7 @@
 ### Hi there  👋
 I'm Julieta Sayco, 2nd year college and currently studying Bachelor of Science in Information Technology.
 Currently I'm passionate studying in the Technology field.
-I'm also interested to work and collaborate open source projects and have a connections.
+I'm also interested to work and collaborate on open source projects.
 You can reach me at Julietaa.b.sayco@gmail.com
 <!--
 **Julieta398/Julieta398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +9,7 @@ You can reach me at Julietaa.b.sayco@gmail.com
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... I’m looking to collaborate on Open Source Projects.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
