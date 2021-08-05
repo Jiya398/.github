@@ -1,8 +1,10 @@
-### Hi there  👋
-I'm Julieta Sayco, 2nd year college and currently studying Bachelor of Science in Information Technology.
-Currently I'm passionate studying in the Technology field.
+# Hi 👋
+I'm Julieta Sayco, 2nd year college and currently studying Bachelor of Science in Information Technology. <br>
+Currently I'm passionate studying in the Technology field. <br>
 I'm also interested to work and collaborate on open source projects.
-Feel free to reach me at Julietaa.b.sayco@gmail.com
+Feel free to reach me at *Discord: Jullie#8988*
+
+
 <!--
 **Julieta398/Julieta398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
