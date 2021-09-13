@@ -1,5 +1,5 @@
 # Hi 👋
-I'm Julieta Sayco, Incoming 3rd year college and currently studying Bachelor of Science in Information Technology. <br>
+I'm Julieta, 3rd year college and currently studying Bachelor of Science in Information Technology. <br>
 Currently I'm passionate studying in the Technology field. <br>
 I'm also interested to work and collaborate on open source projects.
 Feel free to reach me at *Discord: Jullie#8988*
