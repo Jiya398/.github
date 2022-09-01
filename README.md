@@ -1,7 +1,7 @@
-# Hi, I'm Jiya! 
+# Hi, I'm Jiya's
 
 <img src="https://komarev.com/ghpvc/?username=your-github-Jiya398&style=plastic&color=yellow" alt="" /> <br>
-I'm Jiya, 3rd year college and currently studying Bachelor of Science in Information Technology. <br>
+I'm Jiya, 4th year college and currently studying Bachelor of Science in Information Technology. <br>
 Currently I'm passionate studying in the Technology field. <br>
 I'm also interested to work and collaborate on open source projects.
 <br><br>
