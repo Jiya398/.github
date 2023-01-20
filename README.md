@@ -6,10 +6,7 @@ Currently I'm passionate studying in the Technology field. <br>
 I'm also interested to work and collaborate on open source projects.
 <br><br>
 
-## 📈 GitHub Stats <br>
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiya398&theme=great-gatsby&show_icons=true) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jiya398&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) |
-| --- | --- |
-<br>
+
 
 ### 💌 Contact Me 
 
