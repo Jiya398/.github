@@ -4,8 +4,7 @@
 I'm Jiya, 4th year college and currently studying Bachelor of Science in Information Technology. <br>
 Currently I'm passionate studying in the Technology field. <br>
 I'm also interested to work and collaborate on open source projects.
-<br><br>
-
+<br>
 
 
 ### 💌 Contact Me 
