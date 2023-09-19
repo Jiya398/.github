@@ -5,7 +5,7 @@
 I'm Jiya, I'm interested to work and collaborate on open source projects.
 <br> <br>
 
-### 💌 Contact Me 
+### 💌 Contact Me <br>
 
 [<img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Jiya398)
 [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jullie-4a22391bb/)
